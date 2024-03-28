@@ -1,8 +1,4 @@
-# React + Vite
+# Frontend Challenges
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu web sitesini, React ve Tailwind CSS kullanarak geliştirdim ve projeye dayalı öğrenmeyi teşvik etmek amacıyla Frontend Mentor sitesinden ilham aldım. Projede React Router DOM, useRef, useState, useEffect gibi hook'ları kullandım.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
